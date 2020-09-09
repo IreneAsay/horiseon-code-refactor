@@ -1,44 +1,24 @@
-# 01 HTML CSS Git: Code Refactor
+# Horiseon Code Refactor
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+## What is the purpose of this project? 
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+Web accessibility is essential for many businesses, and to make the existing webpage more accessible, I need to refactor the codes so my client's codebase will be more sustainable. 
 
-> Always leave the code you are editing a little cleaner than you found it.
+## How to achieve my goal?
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+I replaced several div with different grouping elements with comments, so people can find easily locate the content under a header, section, aside, and footer. I also updated the CSS stylesheet to remove and consolidate repetitive CSS classes. By placing comments above each grouping elements, other people will be able to quickly understand what information is included under each large section. By sorting the codes in a logical order will also help people access the codes they need by referencing the information on the existing webpage.
 
-## User Story
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+## Challenges
 
-## Acceptance Criteria
+It was very tempting to **change** instead of **refactor** codes initially, so I needed to remind myself of the goal for this project periodically. I also had trouble making some correct connections between the CSS stylesheet and the HTML file.
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
 
-## Review
+## Credits
 
-You are required to submit the following for review:
+The initial codes are provided by Trilogy Education Services, a 2U, Inc. brand.
 
-* The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+## License
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2019 Horiseon Social Solution Services, Inc. All Rights Reserved. Under the [MIT/](./license.txt) license.
