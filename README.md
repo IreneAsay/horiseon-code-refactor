@@ -2,7 +2,10 @@
 
 ## What is the purpose of this project? 
 
-Web accessibility is essential for many businesses, and to make the existing webpage more accessible, I need to refactor the codes so my client's codebase will be more sustainable. 
+Web accessibility is essential for many businesses, and to make the existing webpage more accessible, I need to refactor the codes so my client's codebase will be more sustainable. However, the refactored codes should not affect the final layout of the webpage.
+
+![First Screenshot](assets/images/Screenshot1.PNG)
+![Second Screenshot](assets/images/Screenshot2.PNG)
 
 ## How to achieve my goal?
 
