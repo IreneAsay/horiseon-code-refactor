@@ -24,4 +24,4 @@ The initial codes are provided by Trilogy Education Services, a 2U, Inc. brand.
 
 ## License
 
-© 2019 Horiseon Social Solution Services, Inc. All Rights Reserved. Under the [MIT/](./license.txt) license.
+© Irene Asay. All Rights Reserved. Under the [MIT/](./license.txt) license.
